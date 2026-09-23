@@ -1,3 +1,3 @@
-# BinBuddy (web build)
+# Trashy
 
-Built Expo web export of BinBuddy for the AI Innovate hackathon. Source is kept separately; this repo holds only static files.
+Trashy — static web build for the AI Innovate hackathon; source kept separately.
